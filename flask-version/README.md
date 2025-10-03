@@ -65,7 +65,7 @@ python add_books.py
 ### Example Request in Postman
 
 **POST /books**
-![Add Book Screenshot](screenshots/add_books.png)
+![Add Book Screenshot](screenshots/add_book.png)
 
 **GET /books**
 ![Get Books Screenshot](screenshots/get_books.png)
