@@ -29,12 +29,12 @@ This project is part of the **Bookstore API** multi-language repo.
 ##  Structure
 
 flask-version/
-│── app.py # Main Flask app
-│── models.py # Database models
-│── schemas.py # Marshmallow schemas
-│── add_books.py # Script to insert sample data
-│── requirements.txt # Dependencies
-└── README.md # This file
+ -  app.py # Main Flask app
+ -  models.py # Database models
+ -  schemas.py # Marshmallow schemas
+ -  add_books.py # Script to insert sample data
+ -  requirements.txt # Dependencies
+ -  README.md # This file
 
 
 ---

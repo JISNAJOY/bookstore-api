@@ -16,6 +16,19 @@ The goal: show flexibility in backend development with both **Python (Flask)** a
 
 ---
 
+The project demonstrates CRUD operations for managing books:
+- Create, Read, Update, Delete
+- JSON-based API
+- Relational Database storage
+
+## Project Structure
+
+bookstore-api/
+ -  flask-version/ # Python Flask API
+ - symfony-version/ # PHP Symfony API
+
+Each folder has its own README with installation and usage steps.
+
 ## Setup
 1. Clone this repository:
    ```bash
